@@ -1,4 +1,4 @@
-import React from '../browser/node_modules/react';
+import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
